@@ -1,0 +1,15 @@
+{
+  "name": "WordPress Plugin Workflow",
+  "description": "A workflow for developing WordPress plugins.",
+  "iconName": "WordPress-simplified",
+  "categories": [
+    "testing",
+    "code-quality",
+    "PHP"
+  ],
+  "labels": ["preview"],
+  "filePatterns": [
+    "^readme.txt",
+    ".*\\.php$"
+  ]
+}
